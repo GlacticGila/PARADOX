@@ -1,0 +1,33 @@
+
+
+body {background-color: rgb(187, 186, 186);}
+
+h2  {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: large;
+  text-align: left;
+}
+
+
+p  {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: small;
+  text-align: left;
+  width: 20%;
+}
+
+ol  {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: small;
+  text-align: left;
+  width: 20%;
+}
+
+footer {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: smaller;
+  text-align: left;
+}
+
+input {font-family: "Lucida Console", "Courier New", monospace;
+  font-size: smaller;}
